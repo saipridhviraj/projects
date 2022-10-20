@@ -12,3 +12,5 @@ for i range (10):
 i am changing something 
 lets do it 
 and dont come again and say we dont need how to commit
+
+I am chaging the code in developer 2 branch
